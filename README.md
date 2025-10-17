@@ -31,6 +31,10 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+<p align="center">
+  🐍 <b>Most Used Language:</b> Python
+</p>
+
 ---
 
 ### 📫 Reach Me
